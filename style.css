@@ -1,0 +1,18 @@
+body {
+    transition: 1s ease-in;
+}
+
+body.light {
+    color: rgb(25, 24, 24);
+    background-color: azure;
+}
+
+body.dark {
+    color: rgb(246, 239, 239);
+    background-color: rgb(10, 9, 9);
+}
+
+button {
+    border-style: none;
+    background: transparent;
+}
